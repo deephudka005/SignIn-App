@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="default_web_client_id_auth">262877907004-namdm3q0r52i5j0mc4pkc64gcpu1993q.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">2048247528672714</string>
+    <string name="fb_login_protocol_scheme">fb2048247528672714</string>
+    <string name="profile_photo">ProfilePhoto</string>
+</resources>
